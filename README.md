@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Wilson K Sam - Platform Engineer | Multi-Cloud Specialist | Systems & Desktop App Developer
 
-Welcome to my GitHub profile! I’m a versatile **Platform Engineer** with expertise in **AI/ML**, **cloud platforms**, **frontend/backend development**, **DevOps**, and **cross-platform desktop app development**. With practical experience in **Spring Boot**, **Play Framework**, **NodeJS**, **HTML**, **CSS** **React**, **Redux**, **Electron**, **Unity Apps**, and **Linux Systems**, I bring a well-rounded approach to engineering robust and scalable solutions tailored for a range of use cases.
+Welcome to my GitHub profile! I’m a versatile **Platform Engineer** with expertise in **AI/ML**, **cloud platforms**, **frontend/backend development**, **DevOps**, and **cross-platform desktop app development**. With practical experience in **Spring Boot**, **Play Framework**, **NodeJS**, **HTML**, **CSS**, **React**, **Redux**, **Electron**, **Unity Apps**, and **Linux Systems**, I bring a well-rounded approach to engineering robust and scalable solutions tailored for a range of use cases.
 
 ---
 
