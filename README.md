@@ -1,30 +1,27 @@
-# Hi there! 👋 I'm Wilson K Sam - Full-Stack AI Engineer | Multi-Cloud Specialist | Systems & Desktop App Developer
+# Hi there! 👋 I'm Wilson K Sam - Platform Engineer | Multi-Cloud Specialist | Systems & Desktop App Developer
 
-Welcome to my GitHub profile! I’m a versatile **Full-Stack AI Engineer** with expertise in **AI/ML**, **cloud platforms**, **frontend/backend development**, **DevOps**, and **cross-platform desktop app development**. With practical experience in **React**, **Redux**, **Electron**, **Unity Apps**, and **Linux Systems**, I bring a well-rounded approach to engineering robust and scalable solutions tailored for a range of use cases.
+Welcome to my GitHub profile! I’m a versatile **Platform Engineer** with expertise in **AI/ML**, **cloud platforms**, **frontend/backend development**, **DevOps**, and **cross-platform desktop app development**. With practical experience in **Spring Boot**, **Play Framework**, **NodeJS**, **HTML**, **CSS** **React**, **Redux**, **Electron**, **Unity Apps**, and **Linux Systems**, I bring a well-rounded approach to engineering robust and scalable solutions tailored for a range of use cases.
 
 ---
 
 ### 🔹 **About Me**
 - 👩‍💻 **Full-Stack Expertise**: Skilled in React, Redux, Unity for frontend, and Scala with Akka and Spring Boot for backend systems.
-- ⚙️ **Backend Development**: Extensive experience in **Scala**, **Akka Toolkit**, Spring Boot, microservice architectures, and distributed systems.
-- 🤖 **AI/ML Expertise**: Specializing in scalable machine learning pipelines, NLP, and MLOps with AWS SageMaker and Azure Cognitive Services.
+- ⚙️ **Backend Development**: Extensive experience in Java Spring Boot, Spring Data JPA/MongoDB, Spring Security, WebSockets, REST, DDD Aggregates, and distributed systems.
 - ☁️ **Cloud Specialist**: 
   - **AWS**: Machine Learning, Rekognition, Lambda, DynamoDB
   - **Azure**: AI-102, Cognitive Services, Azure Machine Learning
 - ⚡ **Systems Development**: Linux from Scratch (LFS) environments, Docker, and Kubernetes ecosystems.
-- 🌍 **Interests**: Distributed systems, Event-driven architecture, Ethical AI, and Cross-platform development.
+- 🌍 **Interests**: DDD, Distributed systems, Event-driven architecture, and Cross-platform development.
 
 ---
 
 ### 🔹 **Certifications**
 - 🎓 **AWS Certified Cloud Practitioner**
 - 🎓 **AWS Certified AI Practitioner**
-- 🎓 **AWS Certified Developer - Associate**
 - 🎓 **Azure Fundamentals (AZ-900)**
 - 🎓 **Azure AI Fundamentals (AI-900)**
-- 🎓 **Azure Certification AI-102: Designing and Implementing an Azure AI Solution**
 - 🎓 **HashiCorp Terraform Associate Certification**
-  
+- 🎓 **Spring Boot Professional 2024**
 ---
 
 ### 🔹 **Technologies I Work With**
@@ -59,29 +56,6 @@ Welcome to my GitHub profile! I’m a versatile **Full-Stack AI Engineer** with 
 
 ---
 
-### 🔹 **Projects Portfolio**
-Here are some examples of my projects reflecting my skills in **AI engineering**, **desktop apps**, **DevOps**, and **frontend/backend development**:
-
-#### 🤖 AI & Machine Learning
-- **[Real-Time Sentiment Analysis with Azure Cognitive Services](https://github.com/wilsonks1982/azure-sentiment-analysis)**: Implement a real-time sentiment analysis tool using **Azure Text Analytics API**, where users can input text, and the app predicts the overall sentiment (positive/negative/neutral) in real-time.
-  
-- **[Custom AI Bot with Azure Bot Framework](https://github.com/wilsonks1982/azure-ai-bot)**: Create a custom conversational AI chatbot with **Azure Bot Framework** integrated with **Azure QnA Maker** and **Luis (Language Understanding)** for an intelligent question-answering system.
-
-- **[AI-Powered Image Classifier Using Azure Custom Vision](https://github.com/wilsonks1982/azure-custom-vision)**: Design a specialized image classification model using **Azure Custom Vision**, allowing businesses to classify images (e.g., product categories, object detection) with a web app for uploads.
-
-- **[Speech-to-Text Transcription Service with Azure Speech API](https://github.com/wilsonks1982/azure-speech-transcription)**: Build an app that converts spoken audio into text transcripts using **Azure Speech Services**, ideal for creating automated meeting notes.
-
-- **[Predictive Analytics Solution in Azure Machine Learning](https://github.com/wilsonks1982/azure-predictive-analytics)**: Create a predictive analytics model (e.g., predicting sales trends) using a **Jupyter Notebook in Azure Machine Learning Studio**, and deploy it as a REST API for integration with other applications.
-
-#### 🖥️ Desktop & Frontend Projects
-- **[Electron Cross-Platform App](https://github.com/wilsonks1982/electron-cross-platform)**: Built an Electron-based cross-platform desktop app for managing and visualizing cloud-based ML pipelines.
-- **[Interactive React AI Dashboard](https://github.com/wilsonks1982/react-ai-dashboard)**: Designed a dynamic, real-time dashboard for viewing AI/ML workflow results, leveraging React and Redux.
-
-#### ⚙️ DevOps & Systems Projects
-- **[Automated ML Pipelines with Terraform](https://github.com/wilsonks1982/terraform-ml-pipeline)**: Automated end-to-end machine learning pipelines using Terraform, AWS SageMaker, and Azure Functions.
-- **[Linux from Scratch Custom Machine](https://github.com/wilsonks1982/linux-ai)**: Configured a Linux system from scratch tailored for containerized AI workloads and Docker environments.
-
----
 
 
 ### 🔹 **Let’s Connect**
